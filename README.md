@@ -48,9 +48,6 @@ Our mission is to make AI accessible and useful in everyday scenarios, breaking 
 - **DeepSeek AI API**: Powerful natural language processing capabilities
 - **Render**: Cloud platform for backend deployment and hosting
 - **Postman**: API development and testing environment
-- **WebSockets**: For real-time communication (planned enhancement)
-- **Redis**: For caching and session management (planned enhancement)
-- **JWT**: Secure authentication mechanism (planned enhancement)
 
 ### 🎨 Frontend
 - **HTML5**: Semantic markup structure
@@ -58,7 +55,6 @@ Our mission is to make AI accessible and useful in everyday scenarios, breaking 
 - **JavaScript (ES6+)**: Client-side interactivity and API communication
 - **Vercel**: Platform for frontend deployment and hosting
 - **Fetch API**: Asynchronous HTTP requests
-- **LocalStorage**: Persistent client-side storage for user preferences
 - **CSS Grid/Flexbox**: Responsive layout implementation
 
 ## 🚀 Setup and Installation
